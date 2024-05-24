@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workstation on Hydrogen - Developer Blog Theme</title>
+    <link>http://localhost:1313/hydrogen-hugo/categories/workstation/</link>
+    <description>Recent content in Workstation on Hydrogen - Developer Blog Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Dec 2021 18:19:25 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/hydrogen-hugo/categories/workstation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My work from home workstation</title>
+      <link>http://localhost:1313/hydrogen-hugo/blog/post-5/</link>
+      <pubDate>Mon, 13 Dec 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/hydrogen-hugo/blog/post-5/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Hydrogen - Developer Blog Theme</title>
+    <link>http://localhost:1313/hydrogen-hugo/categories/github/</link>
+    <description>Recent content in Github on Hydrogen - Developer Blog Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Dec 2021 18:19:25 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/hydrogen-hugo/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Repository Controls</title>
+      <link>http://localhost:1313/hydrogen-hugo/blog/post-4/</link>
+      <pubDate>Tue, 14 Dec 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/hydrogen-hugo/blog/post-4/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
+    </item>
+    <item>
+      <title>What is web hosting? A quick guide for new websites</title>
+      <link>http://localhost:1313/hydrogen-hugo/blog/post-9/</link>
+      <pubDate>Mon, 16 Aug 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/hydrogen-hugo/blog/post-9/</guid>
+      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
+    </item>
+  </channel>
+</rss>

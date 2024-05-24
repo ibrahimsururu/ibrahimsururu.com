@@ -1,0 +1,4 @@
+baseURL = 'https://ibrahimsururu.com/'
+languageCode = 'en-us'
+title = 'Ibrahim Sururu'
+theme = 'hydrogen-hugo'
