@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/hydrogen-hugo/en/sitemap.xml</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/en/sitemap.xml</loc>
     
-      <lastmod>2024-05-24T00:40:08+02:00</lastmod>
+      <lastmod>2024-05-24T19:00:09+02:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/hydrogen-hugo/fr/sitemap.xml</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/fr/sitemap.xml</loc>
     
   </sitemap>
   

@@ -1,4 +1,4 @@
 ---
-title: "Technology"
+title: "Life"
 color: "#66e197"
 ---

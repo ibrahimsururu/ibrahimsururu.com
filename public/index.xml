@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ibrahim Sururu on Hydrogen - Developer Blog Theme</title>
-    <link>http://localhost:1313/hydrogen-hugo/</link>
+    <link>https://demo.statichunt.com/hydrogen-hugo/</link>
     <description>Recent content in Ibrahim Sururu on Hydrogen - Developer Blog Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 00:40:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/hydrogen-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 19:00:09 +0200</lastBuildDate>
+    <atom:link href="https://demo.statichunt.com/hydrogen-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not So Hot Hand Theory</title>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/not-so-hot-hand-theory/</link>
+      <pubDate>Fri, 24 May 2024 19:00:09 +0200</pubDate>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/not-so-hot-hand-theory/</guid>
+      <description>Do you remember the scene from the Big Short where Selena Gomez and Richard Thaler were explaining CDOs?</description>
+    </item>
     <item>
       <title>Contact Me</title>
-      <link>http://localhost:1313/hydrogen-hugo/contact/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/contact/</link>
       <pubDate>Fri, 24 May 2024 00:40:08 +0200</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/contact/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/contact/</guid>
       <description>Get in touch Connect with with me! Get in touch with questions, collaboration opportunities, or to discuss your coding goals.</description>
     </item>
     <item>
       <title>Artificial Intelligence and Robotics In A Nutshell</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-1/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-1/</link>
       <pubDate>Fri, 17 Dec 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-1/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-1/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     <item>
       <title>What you need to know about Programming</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-2/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-2/</link>
       <pubDate>Thu, 16 Dec 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-2/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-2/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
     </item>
     <item>
       <title>What is a Virtual Assistant</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-3/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-3/</link>
       <pubDate>Wed, 15 Dec 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-3/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-3/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
     </item>
     <item>
       <title>Github Repository Controls</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-4/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-4/</link>
       <pubDate>Tue, 14 Dec 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-4/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-4/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
     </item>
     <item>
       <title>My work from home workstation</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-5/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-5/</link>
       <pubDate>Mon, 13 Dec 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-5/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-5/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
     </item>
     <item>
       <title>Robotic world is growing very fast</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-7/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-7/</link>
       <pubDate>Mon, 08 Nov 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-7/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-7/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
     </item>
     <item>
       <title>Why you need to learn PHP</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-6/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-6/</link>
       <pubDate>Sun, 24 Oct 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-6/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-6/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
     </item>
     <item>
       <title>Drone Software and Development</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-8/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-8/</link>
       <pubDate>Thu, 16 Sep 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-8/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-8/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
     </item>
     <item>
       <title>What is web hosting? A quick guide for new websites</title>
-      <link>http://localhost:1313/hydrogen-hugo/blog/post-9/</link>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/post-9/</link>
       <pubDate>Mon, 16 Aug 2021 18:19:25 +0600</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/blog/post-9/</guid>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/post-9/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem.</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>http://localhost:1313/hydrogen-hugo/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hydrogen-hugo/elements/</guid>
-      <description>H1 Heading H2 Heading H3 Heading H4 Heading H5 Heading H6 Heading Paragraph Did you come here for something in particular or just general Riker-bashing?</description>
     </item>
   </channel>
 </rss>

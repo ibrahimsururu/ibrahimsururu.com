@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hydrogen-hugo/fr/categories/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/hydrogen-hugo/categories/"
+                href="https://demo.statichunt.com/hydrogen-hugo/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/hydrogen-hugo/fr/categories/"
+                href="https://demo.statichunt.com/hydrogen-hugo/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/fr/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/hydrogen-hugo/"
+                href="https://demo.statichunt.com/hydrogen-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/hydrogen-hugo/fr/"
+                href="https://demo.statichunt.com/hydrogen-hugo/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/fr/tags/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/hydrogen-hugo/tags/"
+                href="https://demo.statichunt.com/hydrogen-hugo/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/hydrogen-hugo/fr/tags/"
+                href="https://demo.statichunt.com/hydrogen-hugo/fr/tags/"
                 />
   </url>
 </urlset>

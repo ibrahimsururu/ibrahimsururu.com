@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Hydrogen - Developer Blog Theme</title>
+    <link>https://demo.statichunt.com/hydrogen-hugo/categories/life/</link>
+    <description>Recent content in Life on Hydrogen - Developer Blog Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2024 19:00:09 +0200</lastBuildDate>
+    <atom:link href="https://demo.statichunt.com/hydrogen-hugo/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not So Hot Hand Theory</title>
+      <link>https://demo.statichunt.com/hydrogen-hugo/blog/not-so-hot-hand-theory/</link>
+      <pubDate>Fri, 24 May 2024 19:00:09 +0200</pubDate>
+      <guid>https://demo.statichunt.com/hydrogen-hugo/blog/not-so-hot-hand-theory/</guid>
+      <description>Do you remember the scene from the Big Short where Selena Gomez and Richard Thaler were explaining CDOs?</description>
+    </item>
+  </channel>
+</rss>

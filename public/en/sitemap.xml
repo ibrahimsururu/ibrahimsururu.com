@@ -2,92 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hydrogen-hugo/contact/</loc>
-    <lastmod>2024-05-24T00:40:08+02:00</lastmod>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/</loc>
+    <lastmod>2024-05-24T19:00:09+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/</loc>
-    <lastmod>2024-05-24T00:40:08+02:00</lastmod>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/categories/</loc>
+    <lastmod>2024-05-24T19:00:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/hydrogen-hugo/fr/"
+                href="https://demo.statichunt.com/hydrogen-hugo/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/hydrogen-hugo/"
+                href="https://demo.statichunt.com/hydrogen-hugo/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-1/</loc>
-    <lastmod>2021-12-17T18:19:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/categories/assistant/</loc>
-    <lastmod>2021-12-17T18:19:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/</loc>
-    <lastmod>2021-12-17T18:19:25+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/categories/</loc>
-    <lastmod>2021-12-17T18:19:25+06:00</lastmod>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/</loc>
+    <lastmod>2024-05-24T19:00:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/hydrogen-hugo/fr/categories/"
+                href="https://demo.statichunt.com/hydrogen-hugo/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/hydrogen-hugo/categories/"
+                href="https://demo.statichunt.com/hydrogen-hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/categories/programming/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/categories/life/</loc>
+    <lastmod>2024-05-24T19:00:09+02:00</lastmod>
+  </url><url>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/not-so-hot-hand-theory/</loc>
+    <lastmod>2024-05-24T19:00:09+02:00</lastmod>
+  </url><url>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/contact/</loc>
+    <lastmod>2024-05-24T00:40:08+02:00</lastmod>
+  </url><url>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-1/</loc>
     <lastmod>2021-12-17T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-2/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/categories/assistant/</loc>
+    <lastmod>2021-12-17T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/categories/programming/</loc>
+    <lastmod>2021-12-17T18:19:25+06:00</lastmod>
+  </url><url>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-2/</loc>
     <lastmod>2021-12-16T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-3/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-3/</loc>
     <lastmod>2021-12-15T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/categories/github/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/categories/github/</loc>
     <lastmod>2021-12-14T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-4/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-4/</loc>
     <lastmod>2021-12-14T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-5/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-5/</loc>
     <lastmod>2021-12-13T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/categories/workstation/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/categories/workstation/</loc>
     <lastmod>2021-12-13T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-7/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-7/</loc>
     <lastmod>2021-11-08T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/categories/technology/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/categories/technology/</loc>
     <lastmod>2021-11-08T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-6/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-6/</loc>
     <lastmod>2021-10-24T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-8/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-8/</loc>
     <lastmod>2021-09-16T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/blog/post-9/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/blog/post-9/</loc>
     <lastmod>2021-08-16T18:19:25+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/elements/</loc>
-  </url><url>
-    <loc>http://localhost:1313/hydrogen-hugo/tags/</loc>
+    <loc>https://demo.statichunt.com/hydrogen-hugo/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/hydrogen-hugo/fr/tags/"
+                href="https://demo.statichunt.com/hydrogen-hugo/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/hydrogen-hugo/tags/"
+                href="https://demo.statichunt.com/hydrogen-hugo/tags/"
                 />
   </url>
 </urlset>

@@ -4,7 +4,7 @@
   "lang": "en-us",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "http://localhost:1313/hydrogen-hugo/?utm_source=web_app_manifest",
+  "start_url": "https://demo.statichunt.com/hydrogen-hugo/?utm_source=web_app_manifest",
   "background_color": "#17212B",
   "theme_color": "#61eebc",
 
